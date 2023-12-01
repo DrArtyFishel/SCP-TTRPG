@@ -30,6 +30,23 @@ The GM's responsibility involves placing obstacles in your characters' path, cha
 Pools of d6s to determine success, every “point” gets you a d6 to roll.
 
 ## STARTING STATS
+
+**Starting HIST Scores**
+History defines HIST ATRB
+
+## Starting ATRB Scores
+14 distributable points
+- HIST ATRB (min 2 | max  5)
+- Other Attributes (min 2 | max  4)
+
+**Starting SKIL Scores**
+10 distributable points
+- HIST ATRB SKILs (min 1 | max 3)
+- Other SKILs (min 0 | max 1)
+
+**Starting TLNT Scores**
+1 TLNT based on HISTory
+
 ##### HEALTH = HP (Physical Health Points)
 HLTH = STRG + AGIL +1 
 - STRG - Raw muscle, Health
@@ -43,21 +60,7 @@ RSLV = WITS + EMPA +1
 - WITS - Sensory perception, Intellect, Sanity
 - EMPA - Charisma, Feelings, Insight
 
-**Starting HIST Scores**
-History defines HIST ATRB
 
-**Starting ATRB Scores**
-14 distributable points
-- HIST ATRB (min 2 | max  5)
-- Other Attributes (min 2 | max  4)
-
-**Starting SKIL Scores**
-10 distributable points
-- HIST ATRB SKILs (min 1 | max 3)
-- Other SKILs (min 0 | max 1)
-
-**Starting TLNT Scores**
-1 TLNT based on HISTory
 
 ## LEVELING UP
 EXPR can be spent during PC Rests
