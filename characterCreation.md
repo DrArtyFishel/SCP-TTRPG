@@ -37,6 +37,46 @@ Contracted| Mail Worker | The delivery address lacks a formal name, but manageme
 Contracted| IRS - Taxman| The Roadblocks have been infuriating, but you've at least managed to track the budget discrepancy to this building.| <li> Briefcase <li> tailored suit
 Contracted| Rival Agency | You work for the other agency. Rumors have reached your ear of trouble at the BUREAU. Usually it's none of your business, but with that federal budget meeting coming up... | <li> Kevlar Vest (1 ARMR) <li> Assault Riffle (D8, d6 Blast, BULK)
 Contracted| Construction| This work order has been passed around the firm all month. You should be able to wrap up with enough time to read your book. | <li> Flashlight <li> Tool Belt (BULK) <li> Faded Paperback
+---
+# ATRB (Attributes)
+---
+
+ATRB Lanes
+Name | Lane | Breakdown
+|-|-|-|
+Physical | Health | Strength, Agility
+Mental | Resolve | Wits, Empathy
+
+ATRB Core
+|ABRV | Name | DESC
+|-|-|-|
+STRG | Strength | Force, Fight, Stamina
+AGIL | Agility | Accuracy, Mobility, Sneak
+WITS | Wits | Technology, Observation, Survival
+EMPA | Empathy | Medic, Insight, Persuasion
+
+ATRB Skills
+|ATRB |Skills| DESC
+|-|-|-|
+FRCE | Force | lift, push, break. Feats of Strength|
+FGHT | Fight | melee, hand-to-hand, close quarter combat, defenses |
+STAM | Stamina | Physical endurance, breathing, resistances|
+MOBL | Mobility | Movement, speed, motor control, Feats of Agility|
+ACCR | Accuracy | Ranged weapons or throwing items|
+SNEK | Sneak | Blending in, hiding, pickpocket, counter OBSV |
+TECH | Technology | Crafting, repairing broken items, Building |
+OBSV | Observation | Perception, Analysis, Feats of Wit, counter SNEK|
+SURV | Survival | Weather, Nature, External Resistances, Travel knowledge |
+MEDC | Medic | Healing, First-Aid, Home Remedies |
+FEEL | Feelings | Insight, Lie detection, Emotional Intelligence, Feats of Empathy|
+PERS | Persuasion | Charm, Spinning the truth, Convincing others |
+
+
+To roll for a skill in the dice pool version, grab a number of six-sided dice equal to your skill level plus your current score in the attribute that is connected to that skill. These are your
+base dice. Then roll all the dice together.
+
+ SUCCESS: To succeed with your action, you must roll at least one 6. A 6 is called a success. If you roll several 6s, you get several successes and can pick a
+
 
 ## EXPR = Experience questions
 You will receive XP after the end of each game session. Talk through the following questions and if you successfully can answer "Yes" to a question you will get a point. These **EXPR** points can be spent to upgrade **ATRB**s Attributes or **TLNT**s Talents
@@ -44,8 +84,8 @@ You will receive XP after the end of each game session. Talk through the followi
 Experience Badges Per Character per Game session
 Some of these are just flavor or **ROLE** which need to be roleplayed out to gain the desired **OPGS** (Once Per Game Session) effect.
 
-|Badge | Name | Description 
-|-|-|-|
+Badge | Name | Description 
+-|-|-|
 PRID | Standout Proud of ROLE| AutoWin SKIL check with ROLE
 WEAK | Weakness ROLE| If it makes Trouble, get EXPR
 SCRT| Past Secret Stories ROLE |If it Haunts you, get EXPR
