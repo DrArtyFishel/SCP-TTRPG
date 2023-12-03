@@ -26,7 +26,6 @@ The GM's responsibility involves placing obstacles in your characters' path, cha
     - Differing styles, themes, game settings, and easily modifiable
 
 ## DICE POOLS
-
 Pools of d6s to determine success, every “point” gets you a d6 to roll.
 
 ## STARTING STATS
@@ -59,8 +58,6 @@ STRG x2
 RSLV = WITS + EMPA +1
 - WITS - Sensory perception, Intellect, Sanity
 - EMPA - Charisma, Feelings, Insight
-
-
 
 ## LEVELING UP
 EXPR can be spent during PC Rests
@@ -121,8 +118,8 @@ Contracted| STRG| Construction| This work order has been passed around the firm 
 ### ATRB Lanes
 Name | Lane | Breakdown
 |-|-|-|
-Physical | Health | Strength, Agility
-Mental | Resolve | Wits, Empathy
+HLTH |Health| Physical | Strength, Agility
+RSLV |Resolve| Mental | Wits, Empathy
 
 ### ATRB Core
 |ATRB | Name | DESC
@@ -138,13 +135,13 @@ EMPA | Empathy | Medic, Insight, Persuasion
 STRG|FRCE | Force | lift, push, break. Feats of Strength|
 STRG|FGHT | Fight | melee, hand-to-hand, close quarter combat, defenses |
 STRG|STAM | Stamina | Physical endurance, breathing, resistances|
-AGIL|MOBL | Mobility | Movement, speed, motor control, Feats of Agility|
+AGIL|MOVE | Movement | Mobility, speed, motor control, Feats of Agility|
 AGIL|ACCR | Accuracy | Ranged weapons or throwing items|
-AGIL|SNEK | Sneak | Blending in, hiding, pickpocket, counter OBSV |
+AGIL|HIDE | Hidden | Blending in, hiding, pickpocket, counter OBSV |
 WITS|TECH | Technology | Crafting, repairing broken items, Building |
 WITS|OBSV | Observation | Perception, Analysis, Feats of Wit, counter SNEK|
 WITS|SURV | Survival | Weather, Nature, External Resistances, Travel knowledge |
-EMPA|MEDC | Medic | Healing, First-Aid, Home Remedies |
+EMPA|HEAL | Healing | Medical, First-Aid, Home Remedies |
 EMPA|FEEL | Feelings | Insight, Lie detection, Emotional Intelligence, Feats of Empathy|
 EMPA|TALK | Talking | Charm, Spinning the truth, Convincing others |
 
@@ -152,21 +149,21 @@ EMPA|TALK | Talking | Charm, Spinning the truth, Convincing others |
 ## EXPR = Experience questions
 You will receive XP after the end of each game session. Talk through the following questions and if you successfully can answer "Yes" to a question you will get a point. These **EXPR** points can be spent to upgrade **ATRB**s Attributes or **TLNT**s Talents
 
-Experience Badges Per Character per Game session
+Experience points Per Character per Game session
 Some of these are just flavor or **ROLE** which need to be roleplayed out to gain the desired **OPGS** (Once Per Game Session) effect.
 
 Badge | Name | Description 
 -|-|-|
-PRID | Standout Proud of ROLE| AutoWin SKIL check with ROLE
-WEAK | Weakness ROLE| If it makes Trouble, get EXPR
-SCRT| Past Secret Stories ROLE |If it Haunts you, get EXPR
-GOAL |Big Dream ROLE |If you work towards it, get EXPR
+PRID | Standout Proud of ROLE| If you impressed others, get EXPR
+GULT | Weakness ROLE| If it makes Trouble, get EXPR
+BUDD | 1 favorite PC you like |If you Help them, get EXPR
+RIVL | 1 different PC you dislike |If you Hurt them, get EXPR
+HOPE |Primary Directive ROLE |If you work towards it, get EXPR
+HANT | Past Secret Stories ROLE |If it Haunts you, get EXPR
 HERE| Participation| Showing up is half the battle! get EXPR
 EXPL|Explorer| Did you explore a new location? Get EXPR
 CMBT| Combat | Did you fight and defeat an Adversary? Get EXPR
 CRTV| Creative | Did you overcome an obstacle creatively? get EXPR
-BUDD | 1 favorite PC you like |If you help them, get EXPR
-RIVL | 1 different PC you dislike |If you hurt them, get EXPR
 
 
 ## TLNT Talents
@@ -209,6 +206,7 @@ MIND| Mind Magic|  MAGIC SPELLS are covered on another page
 
 RTNG | DESC | Description
 |-|-|-|
+0| Wasted           |Unknown
 1| Feeble           |Novice
 2| Below Average    |Trained
 3| Average          |Experienced
@@ -234,4 +232,4 @@ Stunts are the next level of success
 |S-STAY|Stay Down!| Your Opponent falls prone, Only humanoids
 |S-DNCE|Let's Dance! | You can ReRoll Initiative!
 |S-TELL|True Story!|  Ask the GM a question, get a legit answer
-|S-HIDE|Wasn't Me!| You hide your tracks
+|S-SNKY|Wasn't Me!| You hide your tracks
